@@ -1,4 +1,11 @@
 venv/
-input/
 .idea/
 .ipynb_checkpoints/
+
+input/*
+!input/
+output/*
+!output/
+
+.DS_Store
+
